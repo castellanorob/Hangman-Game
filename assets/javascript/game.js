@@ -2,7 +2,7 @@
 
 // Array that holds the names of big cats
 
-var cats = ["lion", "tiger", "theetah", "leopard", "cougar", "jaguar", "puma"];
+var cats = ["lion", "tiger", "cheetah", "leopard", "cougar", "jaguar", "puma"];
 
 // Variables for wins, losses
 
